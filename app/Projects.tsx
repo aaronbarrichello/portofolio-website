@@ -33,7 +33,7 @@ const projects = [
     name: "Portofolio Website",
     description: "My Portofolio Website",
     image: "/project4.jpg",
-    github: "https://github.com",
+    github: "https://github.com/aaronbarrichello/portofolio-website",
     link: "https://localhost:3000",
   },
 ];
