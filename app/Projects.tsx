@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Social Link Profile Card",
     description: "This is my first project.",
-    image: "/project1.jpg",
+    image: "/project1.JPG",
     github: "https://github.com/aaronbarrichello/Social-Link-Profile",
     link: "https://aaronbarrichello.github.io/Social-Link-Profile/",
   },
@@ -24,9 +24,8 @@ const projects = [
     name: "Company Profile MBC Laboratory",
     description:
       "Major Assignment for Research Assistant Recruitment at MBC Laboratory. Create a Company Profile Landing Page",
-    image: "/project3.jpg",
-    github:
-      "https://github.com/aaronbarrichello/Landing_Page_Company_Profile_MBC_Laboratory.git",
+    image: "/project3.JPG",
+    github: "https://github.com/aaronbarrichello/Landing_Page_Company_Profile_MBC_Laboratory.git",
     link: "https://aaronmbc.my.id/",
   },
   {
