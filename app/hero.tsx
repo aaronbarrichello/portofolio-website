@@ -5,7 +5,7 @@ export default function Hero() {
     <div className="min-h-[60vh] flex flex-col-reverse gap-14 lg:gap-0 lg:flex-row items-center justify-between mx-auto w-full max-w-4xl">
       <div className="space-y-3 text-center lg:text-left">
         <h1 className="text-4xl lg:text-6xl font-bold">
-          Hi There!
+          Hi There!!
           <span>🙋‍♂️</span> <br />
           I'm Aaron.
         </h1>
